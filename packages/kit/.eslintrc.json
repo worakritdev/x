@@ -1,0 +1,13 @@
+{
+	"root": true,
+	"extends": "@sveltejs",
+	"parserOptions": {
+		"sourceType": "module"
+	},
+	"globals": {
+		"goto": true,
+		"invalidate": true,
+		"prefetch": true,
+		"prefetchRoutes": true
+	}
+}
